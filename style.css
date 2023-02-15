@@ -480,14 +480,14 @@ footer {
 
 .winnernote {
   margin-top: 10rem;
-  font-size: 100px;
+  font-size: 50px;
   font-weight: 700;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .winnernote2 {
   margin-top: 3rem;
-  font-size: 100px;
+  font-size: 50px;
   font-weight: 700;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(175, 102, 6);
@@ -495,7 +495,7 @@ footer {
 
 .points {
   margin-top: rem;
-  font-size: 90px;
+  font-size: 45px;
   font-weight: 900;
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: rgb(54, 36, 11);
